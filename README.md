@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <meta name="viewpoert" content="width=device-width, initial-scale=1">
@@ -135,7 +134,7 @@ body{
   text-align: center;
   padding: 10px 16px;
 }
-  </style
+  </style>
 </head>
 
 <body>
