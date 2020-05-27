@@ -141,7 +141,7 @@ body{
 <body>
   <section id="welcome-section">
 	  
-	<img src="https://www.freepik.com/free-photo/businessman-with-arms-crossed-smiling_989096.htm#page=1&query=man%20in%20suit&position=1" alt="Picture of the owner">
+	<img src="https://www.freepik.com/free-photo/businessman-with-arms-crossed-smiling_989096.htm#page=1&query=man%20in%20suit&position=1" alt="Picture of Patrick">
      	 
     <h2 style ="left: 650px; top: 200px;">Patrick`s portfolio</h2>
     <p style="left: 775px; font-size: 25px; color: mediumseagreen; top -200px;">Vg2 Datateknologi og elektronikk
